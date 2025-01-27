@@ -1,4 +1,4 @@
-# Automated Data Processing with Encryption and FTP Upload
+# Automated Data Processing with Encryption, FTP Upload, Notify via Email
 
 ## Why Use This Code?
 This script automates the process of encrypting an Excel file, uploading it to an FTP server, and notifying recipients via email. It is designed to simplify repetitive tasks, improve data security, and ensure efficient communication.
